@@ -1,5 +1,5 @@
 # WebAPI_CSharp
-Práctica Web API con C# en Visual Studio Code
+Práctica Web API con C# en Visual Studio 2019
 
 Objetivo: Usar como servidor un proyecto creado en C# para consultar una base de datos de PostgreSQL.   
 
